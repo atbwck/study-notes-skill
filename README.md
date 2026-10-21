@@ -9,7 +9,7 @@
 目录名要与 `SKILL.md` 里的 `name` 一致：
 
 ```bash
-git clone https://github.com/<you>/study-notes-skill.git ~/.agents/skills/study-notes
+git clone https://github.com/atbwck/study-notes-skill.git ~/.agents/skills/study-notes
 ```
 
 也可放进项目的 `.agents/skills/study-notes/`，只在那个仓库生效。
