@@ -1,0 +1,7 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 用户自己的笔记产出
+notes/
