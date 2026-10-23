@@ -1,0 +1,4 @@
+interface:
+  display_name: "Study Notes"
+  short_description: "整理完整可追溯的学习笔记，按知识关系组织，支持闭卷回忆与间隔复习"
+  default_prompt: "请使用 $study-notes 将这份资料整理为学习笔记，核对知识点覆盖，保留适用条件，并提供题目与答案分开的闭卷自测。"
